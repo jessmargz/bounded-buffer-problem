@@ -9,7 +9,9 @@ from random import seed, randint
  
 # globals
 n = 5
-buffer = [0 for i in range(n)]   # large array (list) of n integers, initialzed to all zeros
+buffer = []   # large array (list) of n integers, initialzed to all zeros
+for i in range(0, n):
+    buffer.insert(i, 0)
 next_in = 0
 next_out = 0
 
