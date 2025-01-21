@@ -1,8 +1,6 @@
 # bounded-buffer-problem
 
-## Project 7 - Race Conditions
-
-### CS 4310 Operating Systems
+## Race Conditions
 
 ### Jessica Margala
 
